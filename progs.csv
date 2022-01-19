@@ -63,3 +63,4 @@ G,https://github.com/ricksdomein/pinentry-dmenu.git,"is a dmenu wrapping interfa
 G,https://github.com/ricksdomein/lock,"is a simple, minimal lockscreen for any multimonitor setup."
 ,rsync,"is a fast and versatile file copying tool"
 A,subliminal,"is a CLI tool for searching and downloading subtitles."
+,ttf-ubuntu-font-family,"is a font used by chad."
