@@ -1,4 +1,4 @@
-# Code to Handle Associated Dotfiles
+#  rodenticide
 
 | The image below shows a monocle layout.      	   | The image below shows a stack layout.            |
 | ---                                              | ---					      |
@@ -12,8 +12,8 @@ sh CHAD.sh
 ```
 That's it.
 
-## What is CHAD?
+## What is rodenticide?
 
-CHAD is a script that autoinstalls and autoconfigures a fully-functioning and minimal terminal-and-vim-based Arch Linux environment.
+rodenticide is a script that autoinstalls and autoconfigures a fully-functioning and minimal terminal-and-vim-based Arch Linux environment.
 
-CHAD can be run on a fresh install of Arch or Artix Linux, and provides you with a fully configured diving-board for work or more customization.
+`INSTALL.sh` can be run on a fresh install of Arch or Artix Linux, and provides you with a fully configured diving-board for work or more customization.
