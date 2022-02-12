@@ -8,7 +8,7 @@
 On an Arch-based distribution as root, run the following:
 ```
 curl -LO https://raw.githubusercontent.com/ricksdomein/rodenticide/main/INSTALL.sh
-sh CHAD.sh
+sh INSTALL.sh
 ```
 That's it.
 
