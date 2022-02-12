@@ -7,7 +7,7 @@
 ## Installation:
 On an Arch-based distribution as root, run the following:
 ```
-curl -LO https://raw.githubusercontent.com/ricksdomein/Chad/main/CHAD.sh
+curl -LO https://raw.githubusercontent.com/ricksdomein/rodenticide/main/INSTALL.sh
 sh CHAD.sh
 ```
 That's it.
