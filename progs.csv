@@ -66,3 +66,6 @@ G,https://github.com/ricksdomein/lock,"is a simple, minimal lockscreen for any m
 A,subliminal,"is a CLI tool for searching and downloading subtitles."
 ,ttf-ubuntu-font-family,"is a font used by rodenticide."
 ,exa,"is a ls replacement with colors."
+A,j4-dmenu-desktop,"a menu to start an application using dmenu."
+,alsa-utils,"an advanced linux sound architecture."
+,xorg-xev,"is for printing contents of X events."
