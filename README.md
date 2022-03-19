@@ -1,5 +1,9 @@
 #  rodenticide
 
+| Empty workspace preview.      	   	      |
+| ---                                                 |
+| ![Screenshot of a empty workspace](./preview-3.png) |
+
 | The image below shows a monocle layout.      	   | The image below shows a stack layout.            |
 | ---                                              | ---					      |
 | ![Screenshot of a stack layout](./preview-1.png) | ![Screenshot of a stack layout](./preview-2.png) |
