@@ -1,9 +1,9 @@
-# mouseless
+# Mousepoison
 <p align="center">
   <img width="400" src="./sign.png">
 </p>
 
-
+## Screenshots
 | Empty workspace preview.      	   	      |
 | ---                                                 |
 | ![Screenshot of a empty workspace](./preview-3.png) |
