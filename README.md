@@ -3,6 +3,8 @@
   <img width="400" src="./sign.png">
 </p>
 
+Installation Scripts for My Artix Linux Meta-Distribution, with its main goal being getting ride of the need for the mouse
+
 ## Screenshots
 | Empty workspace preview.      	   	      |
 | ---                                                 |
